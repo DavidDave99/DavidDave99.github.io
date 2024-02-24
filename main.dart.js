@@ -49466,8 +49466,8 @@ O(a){return new A.p5(B.Ax,"Website",A.a63(null,B.ey,null),!1,null)}}
 A.ph.prototype={
 av(){return new A.E1(B.m)}}
 A.E1.prototype={
-O(a){var s=null,r=A.a60("Hi there",s)
-return new A.qg(new A.nn(r,new A.EY(s,s,1/0,56),s),A.J5(A.aaW(A.a([A.a60("Hola",A.bd(a).p3.e)],t.F),B.zN),s,s),s)}}
+O(a){var s=null,r=A.a60("Meron Eyasu Website",s)
+return new A.qg(new A.nn(r,new A.EY(s,s,1/0,56),s),A.J5(A.aaW(A.a([A.a60("              Welcome to my website. I am from briged n Hamedu. \n              I am from Iowa State University.\n\n              Awet n Hamedu!\n              ",A.bd(a).p3.e)],t.F),B.zN),s,s),s)}}
 A.a0w.prototype={
 $0(){var s=t.m7
 if(s.b(A.a7U()))return s.a(A.a7U()).$1(A.a([],t.s))
